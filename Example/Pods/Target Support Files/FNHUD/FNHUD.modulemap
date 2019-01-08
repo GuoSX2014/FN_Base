@@ -1,0 +1,6 @@
+framework module FNHUD {
+  umbrella header "FNHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}

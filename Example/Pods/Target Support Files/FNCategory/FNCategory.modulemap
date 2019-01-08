@@ -1,0 +1,6 @@
+framework module FNCategory {
+  umbrella header "FNCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

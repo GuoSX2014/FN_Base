@@ -1,0 +1,6 @@
+framework module FN_Base {
+  umbrella header "FN_Base-umbrella.h"
+
+  export *
+  module * { export * }
+}

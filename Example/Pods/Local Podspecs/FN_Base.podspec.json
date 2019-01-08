@@ -1,0 +1,42 @@
+{
+  "name": "FN_Base",
+  "version": "0.1.0",
+  "summary": "A short description of FN_Base.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/GuoSX2014/FN_Base",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GuoSX2014": "guoshixu@enn.cn"
+  },
+  "source": {
+    "git": "https://github.com/GuoSX2014/FN_Base.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FN_Base/Classes/**/*",
+  "dependencies": {
+    "FN_Macros": [
+
+    ],
+    "MJExtension": [
+      "~> 3.0.13"
+    ],
+    "FDFullscreenPopGesture": [
+      "~> 1.1"
+    ],
+    "FNHUD": [
+
+    ],
+    "FNNetwork": [
+
+    ],
+    "FNCategory": [
+
+    ]
+  }
+}

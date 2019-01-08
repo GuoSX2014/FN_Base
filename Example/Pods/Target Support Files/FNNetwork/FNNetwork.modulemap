@@ -1,0 +1,6 @@
+framework module FNNetwork {
+  umbrella header "FNNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}
